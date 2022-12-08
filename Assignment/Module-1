@@ -74,3 +74,13 @@ in detail, the SDLC methodology focuses on the following phases  of software dev
 
    the system is deployed and customer start using the developed system following 3 activitied occur 
    Bug fixing, upgrade and enhancement
+   
+   
+---> what is DFD ? & creat a DFD diagram on flipkart
+   A data floe diagram is a graphical or visual representation using a standardized set os symbols and notation to describe a business's
+   operation through data movement.
+   > to represent data into DFD there are 4 elements that are used. a) external entity
+                                                                    b) prosses
+                                                                    c) data flow
+                                                                    d) data store
+---> what is flow chart       
