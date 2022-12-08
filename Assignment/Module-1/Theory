@@ -1,1 +1,88 @@
+---> what is software
+software is a set is computer program and associated documenttation and data.
+software is a set of program. which is designed to perform a well-defined function which is use to solve perticular problem.
 
+--->what is software engineering
+definition of software engineering is detailed study of engineering to the design, development and maintenance of software.
+software engineering is defined as a process of analyzing user requirements and then designing, building and testing software application which will satisfy those requirements.
+
+--->Explain type of software?
+there are 3 type of software
+1). system software
+2). application software
+3). programming software
+
+# system software 
+system software is the first layer of software to be loaded into memory every time a computer is powered up.
+system software carries out middleman tasks to ensure communication between other software and hardware to allow harmonious 
+coexistence with the user.
+the operating system(OS) is a type of system software kernel that sits between computer hardware and end user.
+i.e, Linux, Windows, macOS.. etc type of OS
+
+# application software 
+there are 3 type of application software.
+1). desktop application
+   ex. windows files explorer, microsoft office application, abode photoshop, skype, discord,liiustrator etc...
+2). wab application
+   ex.   Gmail, google docs, google analytics, microsoft office 365 etc...
+3). mobile application
+     like Education, Lifestyle, social media, productivity, Entertainment and game application
+
+    # programming software 
+    programming software is a software which helps the programmer in devloping other software.
+    compilers, assemblers, debuggers, interpreters etc. are examples of programming software. 
+    integrated development environments (IDEs) are combination s of all these software.
+
+---> What is SDLC ? Explain each phase of SDLC.
+the software development life cycle(SDLC) refers to a methodology  with clearly defined processes for creating hight-quality software.
+in detail, the SDLC methodology focuses on the following phases  of software development,
+
+1~ Requirements gathering 
+2~ Analysis and planning
+3~ Design 
+4~ implementation
+5~ testing
+6~ maintenance
+
+
+# 1 requirement gathering 
+    the requirements is the first stage in the SDLC process. this stage gives a clearer picture of the scope of the entire project and
+    the anticipated issues, requirement gathering stage need teams to get detailed and precisw requirements.
+
+
+#2  analysis and planning
+     End user business requirement analysis takes place during this phase. project goals are coverted into the defined system functions that 
+     the organization intends to develop.
+
+
+#3 design 
+
+    in this third phase, the system and software desing document are preparedas pare the requirement specification document.
+    this help define overall system architecture.
+
+#4 implementation 
+    once the system design phase is over, the next phase is implementation, in this phase developers start build the entire syste by 
+    writing code using the chosen programming language. in the phase of implementation, tasks are divided into unitsor modules and 
+    assigned to the various developers.
+
+#5 testing
+
+   when the software is complete and it is deployed in the testing  environment. the testing team stat testing the functionality of 
+   the entire system. this is done to verify that the entire application work accoding to the customer requirement
+
+#6  maintenance
+
+   the system is deployed and customer start using the developed system following 3 activitied occur 
+   Bug fixing, upgrade and enhancement
+   
+   
+---> what is DFD ? & creat a DFD diagram on flipkart
+   A data floe diagram is a graphical or visual representation using a standardized set os symbols and notation to describe a business's
+   operation through data movement.
+   > to represent data into DFD there are 4 elements that are used. a) external entity
+                                                                    b) prosses
+                                                                    c) data flow
+                                                                    d) data store
+---> what is flow chart       
+Flowcharts are nothing but the graphical representation of the data or the algorithm for a better understanding of the code visually.
+It displays step-by-step solutions to a problem, algorithm, or process.
