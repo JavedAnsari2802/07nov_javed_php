@@ -28,3 +28,5 @@ Tcp vs Ip
 
 The transmission control protocol/internet protocol (TCP/IP) model finds its origins in the ARPANET reference model.
 The TCP/IP model describes how to construct communication lines for applications.
+TCP provides the service of exchanging data between applications.
+IP handles addressing and routing messages to the computers across one or more networks.
