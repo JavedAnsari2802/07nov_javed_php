@@ -26,3 +26,5 @@ It is a global network consist of many networks which allow a user with a comput
 
 Tcp vs Ip
 
+The transmission control protocol/internet protocol (TCP/IP) model finds its origins in the ARPANET reference model.
+The TCP/IP model describes how to construct communication lines for applications.
